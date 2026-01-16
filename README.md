@@ -1,5 +1,11 @@
 # 🚀 Portfolio de Testing Manual - Universidad Nacional de Hurlingham
 
+## 📂 Documentación Completa
+Para ver el detalle técnico completo (hojas de cálculo originales con todos los pasos y precondiciones), podés descargar el archivo fuente haciendo clic en el siguiente enlace o buscándolo en la lista de archivos de este repositorio:
+
+👉 **[Descargar Matriz de Testing (Excel)](./Documentacion-Testing-Manual-Elizabeth-Woca.xlsx)**
+
+
 Este repositorio contiene la documentación técnica y los reportes de bugs de tres proyectos de práctica profesional, donde se validaron diferentes funcionalidades, lógica de negocio y gestión de errores.
 
 ---
